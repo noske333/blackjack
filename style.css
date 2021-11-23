@@ -1,0 +1,61 @@
+h1{
+    color: gold;
+      font-family: arial;
+      text-align: center;
+    font-size: 54px;
+  }
+  
+  body{
+    background-color: #35654d;
+    text-align: center;
+  }
+  
+  #message-el{
+    color: white;
+    font-family: arial;
+    text-align: center;
+    font-size: 28px;
+  }
+  
+  p{
+    color: white;
+    font-family: arial;
+    text-align: center;
+    font-size: 28px;
+  }
+  #start-btn{
+    background-color: gold;
+    font-size: 36px;
+    color: #35654d;
+    width: 350px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: arial;
+    border: none;
+    border-radius: 3px;
+  }
+  #hit-me-btn{
+    background-color: gold;
+    font-size: 36px;
+    color: #35654d;
+    width: 168px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: arial;
+    border: none;
+    border-radius: 3px;
+    margin: 5px;
+  }
+
+  #stay-btn{
+    background-color: gold;
+    font-size: 36px;
+    color: #35654d;
+    width: 168px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: arial;
+    border: none;
+    border-radius: 3px;
+    margin: 5px;
+  }
